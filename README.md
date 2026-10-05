@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Eliel Silva. An aspiring developer.
+I'm Eliel Silva. A developer.
 
 
 ## 🌐 Socials:
